@@ -2,9 +2,6 @@ Kindly see the attached files.
 
 This program can run on linux platform only.
 
-This is the complied version of program:
-https://drive.google.com/drive/folders/0BwMsosAJmbVuMDVIY3dlcEZrcHc?usp=sharing
-
 
 Attached is the source code written in python 2.7
 
